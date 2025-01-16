@@ -1,0 +1,6 @@
+Schema - Define the Structure
+    Schema - Model
+    Using Model we do CRUD operations.
+
+Note: 1st we need to start CMD and run the command "mongosh" which will start our mongosh server in
+        Localhost and that url we will be using to connect our nodeJs code to mongoDB.
